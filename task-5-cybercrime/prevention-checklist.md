@@ -1,6 +1,6 @@
-**Stay Safe Online – Checklist for College Students (India)
+**Stay Safe Online – Checklist for College Students (India)**
 
-SHREYAS AGARWAL 25BAI11356**
+*SHREYAS AGARWAL 25BAI11356*
 ---
 
 1.	Use strong and unique passwords
