@@ -3,8 +3,8 @@ This repository contains my Digital Literacy Portfolio created for the CSE0001 â
 
 
 ## Student details
-NAME: SHREYAS AGARWAL 
-REGISTRATION NO. - 25BAI11356
+NAME: SHREYAS AGARWAL
+REGISTRATION NO.: 25BAI11356
 
 
 #### Task-3 google form quiz link
